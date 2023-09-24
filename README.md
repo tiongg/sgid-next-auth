@@ -92,4 +92,5 @@ pnpm run dev
 ## Acknowledgements
 
 [https://github.com/nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example): The base template
+</br>
 [https://github.com/opengovsg/sgid-client](https://github.com/opengovsg/sgid-client): Sgid Client
